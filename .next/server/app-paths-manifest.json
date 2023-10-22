@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/app/page": "app/app/page.js",
+  "/uniswap-eth/page": "app/uniswap-eth/page.js"
+}
